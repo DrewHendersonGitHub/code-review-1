@@ -4,7 +4,9 @@
 
 #### _This is a portfolio for my work_
 
-~~gh pages link goes here~~
+Link to GitHub Pages version of this:
+
+DrewHendersonGitHub.github.io/code-review-1
 
 ## Technologies Used
 
