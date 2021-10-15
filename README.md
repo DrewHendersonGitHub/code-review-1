@@ -12,7 +12,6 @@ DrewHendersonGitHub.github.io/code-review-1
 
 * _HTML_
 * _CSS_
-* _~~Visual Studio Code~~_
 
 ## Description
 
