@@ -6,7 +6,7 @@
 
 Link to GitHub Pages version of this:
 
-DrewHendersonGitHub.github.io/code-review-1
+[DrewHendersonGitHub.github.io/code-review-1](DrewHendersonGitHub.github.io/code-review-1)
 
 ## Technologies Used
 
