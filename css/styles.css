@@ -10,7 +10,6 @@
 .project {
   margin-bottom: 5%;
   margin-top: 4.5%;
-  outline: 10px;
   background-color: #aab5c7;
   padding: 2%;
   padding-left: 5%;
@@ -40,4 +39,21 @@ a:link {
   margin: -15px;
   margin-bottom: 5px;
   background-color: rgb(156, 176, 202);
+}
+
+.cool {
+  font-weight: 700;
+  color:rgb(43, 43, 43);
+  font-size: 3rem;
+}
+
+.transparent {
+  color: transparent;
+  font-size: 12px;
+}
+
+.rside {
+  float: right;
+  width: 20%;
+  margin: 1%;
 }
